@@ -1,0 +1,2 @@
+[30-Jun-2016 02:53:00 UTC] PHP Fatal error:  Call to undefined function qode_vc_grid_elements_enabled() in /home1/another8/public_html/dcfocused/wp-content/themes/stockholm/css/style_dynamic.php on line 7831
+[02-Jul-2016 19:12:27 UTC] PHP Warning:  getimagesize(/home1/another8/public_html/dcfocused/wp-content/uploads/2016/04/logo-dark.png): failed to open stream: No such file or directory in /home1/another8/public_html/dcfocused/wp-content/themes/stockholm/css/style_dynamic.php on line 988

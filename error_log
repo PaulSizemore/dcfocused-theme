@@ -1,0 +1,18 @@
+[07-Jul-2016 19:57:06 America/Denver] PHP Fatal error:  Call to undefined function load_theme_textdomain() in /home1/another8/public_html/dcfocused/wp-content/themes/stockholm/functions.php on line 5
+[09-Jul-2016 20:49:14 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/another8/public_html/dcfocused/wp-content/themes/stockholm/index.php on line 1
+[16-Jul-2016 19:44:59 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/another8/public_html/dcfocused/wp-content/themes/stockholm/index.php on line 1
+[26-Jul-2016 06:45:00 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/another8/public_html/dcfocused/wp-content/themes/stockholm/404.php on line 5
+[01-Aug-2016 17:08:30 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/another8/public_html/dcfocused/wp-content/themes/stockholm/archive.php on line 1
+[03-Aug-2016 05:34:50 America/Denver] PHP Fatal error:  Call to undefined function load_theme_textdomain() in /home1/another8/public_html/dcfocused/wp-content/themes/stockholm/functions.php on line 5
+[05-Aug-2016 17:11:29 America/Denver] PHP Fatal error:  Call to undefined function load_theme_textdomain() in /home1/another8/public_html/dcfocused/wp-content/themes/stockholm/functions.php on line 5
+[05-Aug-2016 22:48:04 America/Denver] PHP Fatal error:  Call to undefined function load_theme_textdomain() in /home1/another8/public_html/dcfocused/wp-content/themes/stockholm/functions.php on line 5
+[07-Aug-2016 08:55:47 America/Denver] PHP Fatal error:  Call to undefined function language_attributes() in /home1/another8/public_html/dcfocused/wp-content/themes/stockholm/header.php on line 2
+[07-Aug-2016 08:55:50 America/Denver] PHP Notice:  Undefined variable: wp_query in /home1/another8/public_html/dcfocused/wp-content/themes/stockholm/footer.php on line 5
+[07-Aug-2016 08:55:50 America/Denver] PHP Fatal error:  Call to a member function get_queried_object_id() on null in /home1/another8/public_html/dcfocused/wp-content/themes/stockholm/footer.php on line 5
+[07-Aug-2016 11:15:59 America/Denver] PHP Fatal error:  Call to undefined function language_attributes() in /home1/another8/public_html/dcfocused/wp-content/themes/stockholm/header.php on line 2
+[07-Aug-2016 11:16:00 America/Denver] PHP Notice:  Undefined variable: wp_query in /home1/another8/public_html/dcfocused/wp-content/themes/stockholm/footer.php on line 5
+[07-Aug-2016 11:16:00 America/Denver] PHP Fatal error:  Call to a member function get_queried_object_id() on null in /home1/another8/public_html/dcfocused/wp-content/themes/stockholm/footer.php on line 5
+[09-Aug-2016 22:46:11 America/Denver] PHP Fatal error:  Call to undefined function load_theme_textdomain() in /home1/another8/public_html/dcfocused/wp-content/themes/stockholm/functions.php on line 5
+[10-Aug-2016 09:20:46 America/Denver] PHP Fatal error:  Call to undefined function load_theme_textdomain() in /home1/another8/public_html/dcfocused/wp-content/themes/stockholm/functions.php on line 5
+[10-Aug-2016 21:19:16 America/Denver] PHP Fatal error:  Call to undefined function load_theme_textdomain() in /home1/another8/public_html/dcfocused/wp-content/themes/stockholm/functions.php on line 5
+[06-Nov-2016 18:47:06 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/another8/public_html/dcfocused/wp-content/themes/stockholm/index.php on line 1
